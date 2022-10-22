@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @basitgillani
+- 👋 Hi, My name is AbdulBasit
 - 👀 I’m interested in Web Applications
-- 🌱 I’m currently learning MERN
+- 🌱 MERN Stack Developer
 - 💞️ I’m looking forward to Colaborate on New Projects
 - 📫 You can reach me at abasit.only@gmail.com
 
