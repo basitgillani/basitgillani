@@ -1,6 +1,6 @@
 - 👋 Hi, My name is AbdulBasit
-- 👀 I’m interested in Web Applications
-- 🌱 MERN Stack Developer
+- 👀 I’m interested in Data Engineering projects
+- 🌱 Data Engineer
 - 💞️ I’m looking forward to Colaborate on New Projects
 - 📫 You can reach me at abasit.only@gmail.com
 
